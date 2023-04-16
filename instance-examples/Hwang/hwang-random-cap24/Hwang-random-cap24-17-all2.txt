@@ -1,0 +1,662 @@
+Order 0 number of articles 9
+0	Aisle 11	Location 1
+1	Aisle 3	Location 35
+2	Aisle 17	Location 40
+3	Aisle 18	Location 29
+4	Aisle 8	Location 26
+5	Aisle 13	Location 30
+6	Aisle 14	Location 38
+7	Aisle 0	Location 35
+8	Aisle 17	Location 40
+Order 1 number of articles 3
+0	Aisle 6	Location 39
+1	Aisle 3	Location 24
+2	Aisle 6	Location 17
+Order 2 number of articles 7
+0	Aisle 5	Location 16
+1	Aisle 12	Location 8
+2	Aisle 1	Location 11
+3	Aisle 7	Location 15
+4	Aisle 1	Location 18
+5	Aisle 6	Location 24
+6	Aisle 8	Location 43
+Order 3 number of articles 2
+0	Aisle 12	Location 31
+1	Aisle 15	Location 26
+Order 4 number of articles 9
+0	Aisle 3	Location 9
+1	Aisle 7	Location 39
+2	Aisle 1	Location 31
+3	Aisle 3	Location 9
+4	Aisle 5	Location 35
+5	Aisle 9	Location 11
+6	Aisle 0	Location 9
+7	Aisle 16	Location 39
+8	Aisle 9	Location 28
+Order 5 number of articles 7
+0	Aisle 3	Location 23
+1	Aisle 9	Location 19
+2	Aisle 11	Location 31
+3	Aisle 18	Location 35
+4	Aisle 2	Location 19
+5	Aisle 17	Location 22
+6	Aisle 16	Location 20
+Order 6 number of articles 10
+0	Aisle 17	Location 24
+1	Aisle 3	Location 19
+2	Aisle 5	Location 4
+3	Aisle 14	Location 24
+4	Aisle 7	Location 29
+5	Aisle 11	Location 23
+6	Aisle 9	Location 28
+7	Aisle 12	Location 34
+8	Aisle 16	Location 29
+9	Aisle 7	Location 9
+Order 7 number of articles 3
+0	Aisle 4	Location 1
+1	Aisle 13	Location 16
+2	Aisle 2	Location 7
+Order 8 number of articles 6
+0	Aisle 16	Location 25
+1	Aisle 8	Location 17
+2	Aisle 2	Location 29
+3	Aisle 14	Location 1
+4	Aisle 7	Location 2
+5	Aisle 2	Location 20
+Order 9 number of articles 7
+0	Aisle 5	Location 7
+1	Aisle 10	Location 42
+2	Aisle 15	Location 3
+3	Aisle 7	Location 33
+4	Aisle 14	Location 15
+5	Aisle 6	Location 33
+6	Aisle 5	Location 30
+Order 10 number of articles 8
+0	Aisle 12	Location 31
+1	Aisle 12	Location 0
+2	Aisle 8	Location 5
+3	Aisle 16	Location 4
+4	Aisle 6	Location 14
+5	Aisle 9	Location 10
+6	Aisle 8	Location 38
+7	Aisle 5	Location 19
+Order 11 number of articles 8
+0	Aisle 7	Location 41
+1	Aisle 2	Location 41
+2	Aisle 7	Location 21
+3	Aisle 11	Location 31
+4	Aisle 9	Location 25
+5	Aisle 11	Location 7
+6	Aisle 0	Location 21
+7	Aisle 15	Location 20
+Order 12 number of articles 7
+0	Aisle 14	Location 30
+1	Aisle 14	Location 19
+2	Aisle 15	Location 36
+3	Aisle 4	Location 24
+4	Aisle 9	Location 0
+5	Aisle 5	Location 36
+6	Aisle 5	Location 40
+Order 13 number of articles 3
+0	Aisle 7	Location 38
+1	Aisle 11	Location 11
+2	Aisle 3	Location 34
+Order 14 number of articles 6
+0	Aisle 1	Location 41
+1	Aisle 15	Location 19
+2	Aisle 0	Location 21
+3	Aisle 12	Location 2
+4	Aisle 18	Location 24
+5	Aisle 8	Location 1
+Order 15 number of articles 5
+0	Aisle 15	Location 26
+1	Aisle 12	Location 19
+2	Aisle 4	Location 20
+3	Aisle 3	Location 31
+4	Aisle 18	Location 12
+Order 16 number of articles 6
+0	Aisle 18	Location 2
+1	Aisle 10	Location 18
+2	Aisle 6	Location 15
+3	Aisle 4	Location 23
+4	Aisle 6	Location 43
+5	Aisle 6	Location 3
+Order 17 number of articles 7
+0	Aisle 13	Location 13
+1	Aisle 10	Location 17
+2	Aisle 10	Location 20
+3	Aisle 16	Location 38
+4	Aisle 14	Location 5
+5	Aisle 7	Location 19
+6	Aisle 5	Location 22
+Order 18 number of articles 4
+0	Aisle 9	Location 4
+1	Aisle 0	Location 37
+2	Aisle 5	Location 10
+3	Aisle 2	Location 25
+Order 19 number of articles 3
+0	Aisle 11	Location 4
+1	Aisle 17	Location 5
+2	Aisle 17	Location 25
+Order 20 number of articles 3
+0	Aisle 11	Location 31
+1	Aisle 5	Location 28
+2	Aisle 16	Location 35
+Order 21 number of articles 6
+0	Aisle 2	Location 26
+1	Aisle 4	Location 30
+2	Aisle 3	Location 43
+3	Aisle 1	Location 31
+4	Aisle 5	Location 14
+5	Aisle 4	Location 0
+Order 22 number of articles 3
+0	Aisle 17	Location 18
+1	Aisle 11	Location 40
+2	Aisle 12	Location 10
+Order 23 number of articles 3
+0	Aisle 4	Location 22
+1	Aisle 5	Location 11
+2	Aisle 13	Location 34
+Order 24 number of articles 3
+0	Aisle 4	Location 6
+1	Aisle 14	Location 21
+2	Aisle 12	Location 15
+Order 25 number of articles 4
+0	Aisle 11	Location 10
+1	Aisle 2	Location 6
+2	Aisle 9	Location 14
+3	Aisle 0	Location 19
+Order 26 number of articles 2
+0	Aisle 9	Location 25
+1	Aisle 3	Location 28
+Order 27 number of articles 5
+0	Aisle 13	Location 38
+1	Aisle 15	Location 3
+2	Aisle 17	Location 42
+3	Aisle 9	Location 43
+4	Aisle 15	Location 26
+Order 28 number of articles 8
+0	Aisle 14	Location 1
+1	Aisle 9	Location 14
+2	Aisle 2	Location 37
+3	Aisle 5	Location 40
+4	Aisle 18	Location 16
+5	Aisle 2	Location 4
+6	Aisle 6	Location 41
+7	Aisle 1	Location 2
+Order 29 number of articles 6
+0	Aisle 5	Location 30
+1	Aisle 11	Location 35
+2	Aisle 9	Location 37
+3	Aisle 10	Location 2
+4	Aisle 17	Location 25
+5	Aisle 12	Location 26
+Order 30 number of articles 8
+0	Aisle 3	Location 17
+1	Aisle 11	Location 13
+2	Aisle 18	Location 11
+3	Aisle 16	Location 41
+4	Aisle 7	Location 32
+5	Aisle 6	Location 9
+6	Aisle 3	Location 35
+7	Aisle 4	Location 22
+Order 31 number of articles 6
+0	Aisle 16	Location 32
+1	Aisle 1	Location 18
+2	Aisle 1	Location 39
+3	Aisle 15	Location 34
+4	Aisle 16	Location 2
+5	Aisle 14	Location 41
+Order 32 number of articles 3
+0	Aisle 6	Location 23
+1	Aisle 15	Location 6
+2	Aisle 2	Location 42
+Order 33 number of articles 8
+0	Aisle 8	Location 14
+1	Aisle 7	Location 43
+2	Aisle 16	Location 25
+3	Aisle 3	Location 1
+4	Aisle 12	Location 37
+5	Aisle 12	Location 18
+6	Aisle 15	Location 14
+7	Aisle 7	Location 23
+Order 34 number of articles 9
+0	Aisle 18	Location 5
+1	Aisle 6	Location 5
+2	Aisle 6	Location 37
+3	Aisle 16	Location 21
+4	Aisle 6	Location 15
+5	Aisle 17	Location 19
+6	Aisle 15	Location 17
+7	Aisle 9	Location 31
+8	Aisle 11	Location 43
+Order 35 number of articles 5
+0	Aisle 11	Location 20
+1	Aisle 12	Location 39
+2	Aisle 5	Location 12
+3	Aisle 11	Location 15
+4	Aisle 5	Location 20
+Order 36 number of articles 3
+0	Aisle 3	Location 42
+1	Aisle 17	Location 23
+2	Aisle 1	Location 35
+Order 37 number of articles 6
+0	Aisle 11	Location 1
+1	Aisle 15	Location 15
+2	Aisle 1	Location 26
+3	Aisle 14	Location 11
+4	Aisle 12	Location 24
+5	Aisle 4	Location 29
+Order 38 number of articles 9
+0	Aisle 0	Location 29
+1	Aisle 18	Location 39
+2	Aisle 2	Location 12
+3	Aisle 8	Location 20
+4	Aisle 17	Location 38
+5	Aisle 18	Location 0
+6	Aisle 0	Location 19
+7	Aisle 10	Location 29
+8	Aisle 14	Location 26
+Order 39 number of articles 4
+0	Aisle 16	Location 38
+1	Aisle 13	Location 22
+2	Aisle 6	Location 31
+3	Aisle 8	Location 33
+Order 40 number of articles 4
+0	Aisle 11	Location 29
+1	Aisle 14	Location 3
+2	Aisle 0	Location 36
+3	Aisle 1	Location 41
+Order 41 number of articles 6
+0	Aisle 1	Location 23
+1	Aisle 0	Location 23
+2	Aisle 6	Location 24
+3	Aisle 0	Location 28
+4	Aisle 14	Location 33
+5	Aisle 8	Location 6
+Order 42 number of articles 6
+0	Aisle 16	Location 20
+1	Aisle 17	Location 31
+2	Aisle 4	Location 36
+3	Aisle 15	Location 23
+4	Aisle 6	Location 24
+5	Aisle 14	Location 16
+Order 43 number of articles 10
+0	Aisle 1	Location 35
+1	Aisle 18	Location 8
+2	Aisle 12	Location 32
+3	Aisle 16	Location 1
+4	Aisle 7	Location 36
+5	Aisle 15	Location 41
+6	Aisle 8	Location 18
+7	Aisle 18	Location 13
+8	Aisle 0	Location 19
+9	Aisle 5	Location 21
+Order 44 number of articles 4
+0	Aisle 3	Location 11
+1	Aisle 3	Location 4
+2	Aisle 9	Location 42
+3	Aisle 11	Location 31
+Order 45 number of articles 3
+0	Aisle 15	Location 40
+1	Aisle 13	Location 35
+2	Aisle 16	Location 17
+Order 46 number of articles 5
+0	Aisle 17	Location 19
+1	Aisle 6	Location 27
+2	Aisle 8	Location 27
+3	Aisle 7	Location 1
+4	Aisle 14	Location 40
+Order 47 number of articles 6
+0	Aisle 1	Location 38
+1	Aisle 0	Location 35
+2	Aisle 11	Location 41
+3	Aisle 18	Location 9
+4	Aisle 0	Location 17
+5	Aisle 8	Location 29
+Order 48 number of articles 9
+0	Aisle 13	Location 23
+1	Aisle 14	Location 12
+2	Aisle 14	Location 13
+3	Aisle 5	Location 7
+4	Aisle 0	Location 21
+5	Aisle 7	Location 24
+6	Aisle 16	Location 27
+7	Aisle 2	Location 27
+8	Aisle 14	Location 34
+Order 49 number of articles 8
+0	Aisle 13	Location 37
+1	Aisle 3	Location 12
+2	Aisle 5	Location 28
+3	Aisle 11	Location 32
+4	Aisle 6	Location 27
+5	Aisle 9	Location 39
+6	Aisle 16	Location 25
+7	Aisle 14	Location 30
+Order 50 number of articles 3
+0	Aisle 5	Location 10
+1	Aisle 4	Location 20
+2	Aisle 2	Location 43
+Order 51 number of articles 9
+0	Aisle 4	Location 15
+1	Aisle 2	Location 2
+2	Aisle 8	Location 0
+3	Aisle 13	Location 42
+4	Aisle 12	Location 36
+5	Aisle 2	Location 34
+6	Aisle 17	Location 11
+7	Aisle 14	Location 11
+8	Aisle 5	Location 22
+Order 52 number of articles 5
+0	Aisle 13	Location 3
+1	Aisle 0	Location 19
+2	Aisle 8	Location 5
+3	Aisle 17	Location 0
+4	Aisle 12	Location 28
+Order 53 number of articles 4
+0	Aisle 14	Location 17
+1	Aisle 2	Location 8
+2	Aisle 9	Location 12
+3	Aisle 7	Location 33
+Order 54 number of articles 7
+0	Aisle 6	Location 15
+1	Aisle 16	Location 16
+2	Aisle 9	Location 34
+3	Aisle 10	Location 22
+4	Aisle 0	Location 21
+5	Aisle 0	Location 33
+6	Aisle 16	Location 16
+Order 55 number of articles 6
+0	Aisle 11	Location 35
+1	Aisle 16	Location 13
+2	Aisle 10	Location 4
+3	Aisle 16	Location 40
+4	Aisle 10	Location 2
+5	Aisle 4	Location 12
+Order 56 number of articles 4
+0	Aisle 3	Location 21
+1	Aisle 4	Location 4
+2	Aisle 9	Location 30
+3	Aisle 7	Location 1
+Order 57 number of articles 3
+0	Aisle 11	Location 37
+1	Aisle 8	Location 19
+2	Aisle 3	Location 26
+Order 58 number of articles 3
+0	Aisle 17	Location 13
+1	Aisle 12	Location 15
+2	Aisle 15	Location 22
+Order 59 number of articles 8
+0	Aisle 12	Location 30
+1	Aisle 5	Location 39
+2	Aisle 11	Location 24
+3	Aisle 1	Location 7
+4	Aisle 4	Location 12
+5	Aisle 4	Location 12
+6	Aisle 16	Location 12
+7	Aisle 8	Location 43
+Order 60 number of articles 3
+0	Aisle 8	Location 24
+1	Aisle 12	Location 39
+2	Aisle 11	Location 14
+Order 61 number of articles 4
+0	Aisle 1	Location 43
+1	Aisle 4	Location 41
+2	Aisle 13	Location 8
+3	Aisle 2	Location 3
+Order 62 number of articles 7
+0	Aisle 7	Location 18
+1	Aisle 15	Location 37
+2	Aisle 18	Location 10
+3	Aisle 17	Location 20
+4	Aisle 17	Location 3
+5	Aisle 18	Location 22
+6	Aisle 15	Location 34
+Order 63 number of articles 9
+0	Aisle 15	Location 25
+1	Aisle 5	Location 3
+2	Aisle 9	Location 10
+3	Aisle 6	Location 2
+4	Aisle 11	Location 6
+5	Aisle 16	Location 36
+6	Aisle 9	Location 17
+7	Aisle 12	Location 7
+8	Aisle 17	Location 21
+Order 64 number of articles 9
+0	Aisle 12	Location 35
+1	Aisle 11	Location 0
+2	Aisle 18	Location 7
+3	Aisle 3	Location 41
+4	Aisle 6	Location 18
+5	Aisle 8	Location 18
+6	Aisle 17	Location 1
+7	Aisle 11	Location 9
+8	Aisle 3	Location 1
+Order 65 number of articles 6
+0	Aisle 11	Location 9
+1	Aisle 10	Location 5
+2	Aisle 11	Location 34
+3	Aisle 3	Location 24
+4	Aisle 1	Location 15
+5	Aisle 15	Location 31
+Order 66 number of articles 5
+0	Aisle 5	Location 40
+1	Aisle 8	Location 11
+2	Aisle 1	Location 32
+3	Aisle 15	Location 24
+4	Aisle 15	Location 38
+Order 67 number of articles 6
+0	Aisle 12	Location 2
+1	Aisle 15	Location 9
+2	Aisle 4	Location 17
+3	Aisle 14	Location 6
+4	Aisle 9	Location 32
+5	Aisle 6	Location 8
+Order 68 number of articles 10
+0	Aisle 5	Location 32
+1	Aisle 5	Location 8
+2	Aisle 14	Location 10
+3	Aisle 3	Location 26
+4	Aisle 7	Location 1
+5	Aisle 10	Location 16
+6	Aisle 10	Location 10
+7	Aisle 16	Location 31
+8	Aisle 18	Location 9
+9	Aisle 12	Location 42
+Order 69 number of articles 5
+0	Aisle 6	Location 8
+1	Aisle 17	Location 26
+2	Aisle 15	Location 40
+3	Aisle 3	Location 15
+4	Aisle 8	Location 14
+Order 70 number of articles 3
+0	Aisle 6	Location 35
+1	Aisle 2	Location 6
+2	Aisle 13	Location 32
+Order 71 number of articles 8
+0	Aisle 13	Location 4
+1	Aisle 8	Location 9
+2	Aisle 11	Location 22
+3	Aisle 18	Location 35
+4	Aisle 10	Location 0
+5	Aisle 17	Location 7
+6	Aisle 1	Location 21
+7	Aisle 9	Location 42
+Order 72 number of articles 6
+0	Aisle 1	Location 19
+1	Aisle 10	Location 31
+2	Aisle 7	Location 41
+3	Aisle 11	Location 19
+4	Aisle 10	Location 24
+5	Aisle 15	Location 31
+Order 73 number of articles 2
+0	Aisle 7	Location 3
+1	Aisle 4	Location 3
+Order 74 number of articles 5
+0	Aisle 8	Location 7
+1	Aisle 11	Location 3
+2	Aisle 4	Location 6
+3	Aisle 14	Location 22
+4	Aisle 0	Location 21
+Order 75 number of articles 2
+0	Aisle 0	Location 0
+1	Aisle 16	Location 30
+Order 76 number of articles 3
+0	Aisle 2	Location 19
+1	Aisle 6	Location 31
+2	Aisle 2	Location 32
+Order 77 number of articles 7
+0	Aisle 5	Location 30
+1	Aisle 18	Location 7
+2	Aisle 17	Location 10
+3	Aisle 0	Location 39
+4	Aisle 14	Location 4
+5	Aisle 5	Location 38
+6	Aisle 14	Location 0
+Order 78 number of articles 8
+0	Aisle 18	Location 23
+1	Aisle 14	Location 38
+2	Aisle 12	Location 3
+3	Aisle 4	Location 17
+4	Aisle 12	Location 11
+5	Aisle 12	Location 25
+6	Aisle 8	Location 43
+7	Aisle 13	Location 1
+Order 79 number of articles 6
+0	Aisle 11	Location 4
+1	Aisle 15	Location 37
+2	Aisle 18	Location 12
+3	Aisle 9	Location 25
+4	Aisle 17	Location 1
+5	Aisle 1	Location 34
+Order 80 number of articles 5
+0	Aisle 14	Location 10
+1	Aisle 15	Location 43
+2	Aisle 7	Location 16
+3	Aisle 11	Location 26
+4	Aisle 10	Location 5
+Order 81 number of articles 7
+0	Aisle 9	Location 39
+1	Aisle 6	Location 10
+2	Aisle 10	Location 15
+3	Aisle 16	Location 12
+4	Aisle 8	Location 13
+5	Aisle 10	Location 24
+6	Aisle 3	Location 36
+Order 82 number of articles 7
+0	Aisle 3	Location 23
+1	Aisle 15	Location 5
+2	Aisle 18	Location 24
+3	Aisle 2	Location 0
+4	Aisle 18	Location 12
+5	Aisle 14	Location 15
+6	Aisle 4	Location 33
+Order 83 number of articles 3
+0	Aisle 8	Location 17
+1	Aisle 18	Location 24
+2	Aisle 3	Location 37
+Order 84 number of articles 6
+0	Aisle 7	Location 33
+1	Aisle 14	Location 34
+2	Aisle 13	Location 19
+3	Aisle 3	Location 29
+4	Aisle 5	Location 31
+5	Aisle 5	Location 2
+Order 85 number of articles 6
+0	Aisle 10	Location 16
+1	Aisle 0	Location 4
+2	Aisle 6	Location 0
+3	Aisle 18	Location 27
+4	Aisle 17	Location 9
+5	Aisle 2	Location 10
+Order 86 number of articles 4
+0	Aisle 18	Location 30
+1	Aisle 13	Location 8
+2	Aisle 6	Location 20
+3	Aisle 1	Location 30
+Order 87 number of articles 4
+0	Aisle 9	Location 19
+1	Aisle 13	Location 2
+2	Aisle 18	Location 30
+3	Aisle 13	Location 4
+Order 88 number of articles 7
+0	Aisle 8	Location 6
+1	Aisle 10	Location 37
+2	Aisle 7	Location 6
+3	Aisle 15	Location 6
+4	Aisle 18	Location 22
+5	Aisle 3	Location 35
+6	Aisle 0	Location 36
+Order 89 number of articles 7
+0	Aisle 18	Location 40
+1	Aisle 5	Location 12
+2	Aisle 17	Location 24
+3	Aisle 11	Location 26
+4	Aisle 0	Location 35
+5	Aisle 8	Location 5
+6	Aisle 17	Location 32
+Order 90 number of articles 5
+0	Aisle 5	Location 21
+1	Aisle 18	Location 7
+2	Aisle 13	Location 33
+3	Aisle 4	Location 4
+4	Aisle 3	Location 34
+Order 91 number of articles 4
+0	Aisle 13	Location 12
+1	Aisle 11	Location 21
+2	Aisle 16	Location 15
+3	Aisle 5	Location 25
+Order 92 number of articles 4
+0	Aisle 5	Location 21
+1	Aisle 14	Location 35
+2	Aisle 14	Location 15
+3	Aisle 13	Location 37
+Order 93 number of articles 9
+0	Aisle 5	Location 30
+1	Aisle 0	Location 39
+2	Aisle 7	Location 36
+3	Aisle 1	Location 30
+4	Aisle 15	Location 24
+5	Aisle 10	Location 12
+6	Aisle 14	Location 29
+7	Aisle 17	Location 37
+8	Aisle 0	Location 36
+Order 94 number of articles 5
+0	Aisle 16	Location 5
+1	Aisle 2	Location 15
+2	Aisle 10	Location 1
+3	Aisle 17	Location 16
+4	Aisle 3	Location 39
+Order 95 number of articles 3
+0	Aisle 12	Location 33
+1	Aisle 11	Location 14
+2	Aisle 15	Location 12
+Order 96 number of articles 8
+0	Aisle 1	Location 2
+1	Aisle 2	Location 42
+2	Aisle 15	Location 20
+3	Aisle 3	Location 7
+4	Aisle 11	Location 14
+5	Aisle 9	Location 26
+6	Aisle 11	Location 5
+7	Aisle 13	Location 8
+Order 97 number of articles 8
+0	Aisle 5	Location 14
+1	Aisle 10	Location 9
+2	Aisle 7	Location 12
+3	Aisle 5	Location 4
+4	Aisle 17	Location 3
+5	Aisle 14	Location 9
+6	Aisle 16	Location 16
+7	Aisle 1	Location 3
+Order 98 number of articles 5
+0	Aisle 10	Location 20
+1	Aisle 2	Location 1
+2	Aisle 13	Location 16
+3	Aisle 10	Location 16
+4	Aisle 4	Location 36
+Order 99 number of articles 4
+0	Aisle 16	Location 4
+1	Aisle 9	Location 5
+2	Aisle 17	Location 37
+3	Aisle 9	Location 42
